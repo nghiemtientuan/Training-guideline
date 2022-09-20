@@ -12,10 +12,7 @@
 
 ## 3. Link tài liệu:
 [Slide]
-https://drive.google.com/drive/folders/1yFm62BLF0q8hv18LRXRckUYu6fCwgzqV?usp=sharing
-
-[Slide Overview]
-https://drive.google.com/file/d/1lAqzL9Z3KqpI2oOKuIV2fob8zOM3zBmO/view?usp=sharing
+[https://drive.google.com/drive/folders/1yFm62BLF0q8hv18LRXRckUYu6fCwgzqV?usp=sharing](https://drive.google.com/drive/folders/1-W-NHEHWVspp7cyN2VAAZpdMviCD7n4V?usp=sharing)
 
 [References]
 - http://git-scm.com/book - 4 chương đầu
@@ -24,10 +21,7 @@ https://drive.google.com/file/d/1lAqzL9Z3KqpI2oOKuIV2fob8zOM3zBmO/view?usp=shari
 - http://chris.beams.io/posts/git-commit/
 
 [Video]
-- https://www.youtube.com/watch?v=OBCnmcgx4CE
-
-[Note]
-- Các bạn tạo account ở link [https://github.com/] để thực hành nhé
+- [https://www.youtube.com/watch?v=OBCnmcgx4CE](https://drive.google.com/drive/folders/1GKCCZFVDRjxyILq0nteX4Zr-Ajvg2rXc?usp=sharing)
 
 ## Một số tip khi làm việc với GIT
 - Đôi bạn cùng tiến
